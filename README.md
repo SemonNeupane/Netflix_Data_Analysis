@@ -86,6 +86,7 @@ The report uses a fully custom Power BI theme built to match Netflix's brand ide
 
 ## 📂 Project Structure
 
+```text
 Netflix-Data-Analysis/
 │
 ├── data/
@@ -104,6 +105,7 @@ Netflix-Data-Analysis/
 │   └── dashboard_page3.png
 │
 └── README.md
+```
 ---
 
 ## ✨ Key Highlights
